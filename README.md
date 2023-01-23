@@ -7,6 +7,6 @@ I used systick timer to implement Round robin algorithm and this project constan
 
 
 this figure shows every thing
-<img src>"https://user-images.githubusercontent.com/71934919/213950561-f464c997-3670-4ca6-81dd-bc275cfb82d4.jpg" width="300"
+<img src= "https://user-images.githubusercontent.com/71934919/213950924-11aff70c-b43c-49ac-ad47-09a0b509a967.jpg" width="300" >
 
 
